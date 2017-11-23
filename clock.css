@@ -35,3 +35,16 @@ body {
   width: 240px;
   background: black;
 }
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+}
+
+footer a {
+  text-decoration: none;
+  color: blue;
+}
